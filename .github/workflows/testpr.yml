@@ -1,4 +1,4 @@
-name: test pull request
+name: bianyi pull request
 # This workflow is triggered on pushes to the repository.
 on: [pull_request]
 
